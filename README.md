@@ -1,2 +1,0 @@
-# htb-lab
-new lab
